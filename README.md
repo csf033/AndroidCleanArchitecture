@@ -1,0 +1,2 @@
+# AndroidCleanArchitecture
+自己搭建的一个Android的应用基本架构，采用MVP的设计思路
